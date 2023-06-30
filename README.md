@@ -2,10 +2,6 @@
 notebook for the tensorflow self-learning
 
 here is the reference:   https://github.com/tsungtao0311/tensorflow-learning/wiki  
------------------------------------------------------------------------------------------------------------------------------------------------------------
-关于在Anaconda虚拟环境中混用pip和conda命令安装相同软件包（不同版本）的问题。
-可以混用，但是建议统一用conda去装，如果一定要用Pip，那么用这个命令： （把Pip安装的软件也放到conda的路径下，这样在anaconda navigator里就能看到了）
-     (tf_learning) C:\Users\Administrator>pip install --target=C:\Users\Administrator\anaconda3\Lib\site-packages tensorflow==2.12.0
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------  
 
